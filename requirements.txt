@@ -1,4 +1,4 @@
-Núcleo de Google AI y Autenticación ---
+# Núcleo de Google AI y Autenticación ---
 google-generativeai==0.4.1
 google-auth==2.29.0
 google-api-core==2.18.0
